@@ -1,4 +1,4 @@
-# flutter_application_4
+# TICTAC game
 
 A new Flutter project.
 
